@@ -12,5 +12,14 @@ package evote;
  * @time Jul 21, 2022 12:51:23 PM
  */
 public class Cryptare {
+    
+    
+    public static byte[] signature(byte[] address, byte[] secretKey, char[] message) {
+
+        byte[] preimage = new byte[17];
+        return preimage;
+    }
+
+
 
 }
