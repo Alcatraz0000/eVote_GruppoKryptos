@@ -9,17 +9,15 @@ package evote;
 /**
  *
  * @author nando
- * @time Jul 21, 2022 12:51:38 PM
+ * @time Jul 21, 2022 12:52:43 PM
  */
-public class SmartContract {
+public class Votante {
 
     
-    //func(address,m,firma) return bool
+    //func(address,voto)
     
-    //func(address) return randomness t2
     
-    //func(address,randomness) return bool
     
-    //func() return result t3 o t4 dont rmbr 
+    //func(address) for 2nd part only request the randomness and resend after dec
     
 }
